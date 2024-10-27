@@ -12,7 +12,9 @@ const SubmitEmail = () => {
                 A confirmation email has been sent. please open it and click the button inside to confirm your subscription.
             </p>
         </div>
-        <button>Dismiss message</button>
+        <button onClick={(e) => props.setIsSubscribed(false)}>
+            Dismiss message
+        </button>
     </div>
   )
 }
