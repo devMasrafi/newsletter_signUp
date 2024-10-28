@@ -12,6 +12,9 @@ export default {
       colors:{
         "mainColor": "#36384D",
       },
+      backgroundImage: {
+        'desktopImg':'url("src/assets/images/illustration-sign-up-desktop.svg") ',
+      },
     },
   },
   plugins: [],

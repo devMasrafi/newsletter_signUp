@@ -70,8 +70,8 @@ const NewsLeter = () => {
                 </button>
               </form>
             </div>
-            <div>
-              <img
+            <div className="">
+              <img className=""
                 src="src/assets/images/illustration-sign-up-desktop.svg"
                 alt="sign-up image"
               />
