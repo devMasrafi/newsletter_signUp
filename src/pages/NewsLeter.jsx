@@ -32,7 +32,7 @@ const NewsLeter = () => {
                 <li className="flex justify-start items-center ">
                   <img
                     className="pr-2 "
-                    src="src/assets/images/icon-list.svg"
+                    src="/images/icon-list.svg"
                     alt=""
                   />
                   Product discorvery and building what matters
@@ -40,7 +40,7 @@ const NewsLeter = () => {
                 <li className="flex justify-start items-center ">
                   <img
                     className="pr-2 "
-                    src="src/assets/images/icon-list.svg"
+                    src="/images/icon-list.svg"
                     alt=""
                   />
                   measuring to ensure updates are a success
@@ -48,7 +48,7 @@ const NewsLeter = () => {
                 <li className="flex justify-start items-center ">
                   <img
                     className="pr-2 "
-                    src="src/assets/images/icon-list.svg"
+                    src="/images/icon-list.svg"
                     alt=""
                   />
                   And much more!
@@ -72,7 +72,7 @@ const NewsLeter = () => {
             </div>
             <div className="">
               <img className=""
-                src="src/assets/images/illustration-sign-up-desktop.svg"
+                src="./images/illustration-sign-up-desktop.svg"
                 alt="sign-up image"
               />
             </div>
